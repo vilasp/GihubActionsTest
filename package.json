@@ -1,0 +1,4 @@
+{
+  "name": "github-actions-test",
+  "packageManager": "yarn@3.1.1"
+}
